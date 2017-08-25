@@ -1,0 +1,12 @@
+
+
+2017-8-25
+connect Receiver throught BTMAC instead of ID Index
+adopt new command protocol
+add new feature: charging records
+
+Changes since 1.4
+  protocol based on V1.5
+  ScopeActivity & MainActivity removed
+  Records of Charge up to 150 items
+  
