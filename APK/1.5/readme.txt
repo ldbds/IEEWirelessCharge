@@ -1,4 +1,8 @@
 
+
+2017-8-25 17:37
+refine the recording procedure
+
 2017-8-25 14:00
 Android 6.0 bluetooth Support
 
