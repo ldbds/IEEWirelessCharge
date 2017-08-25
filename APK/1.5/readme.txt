@@ -1,6 +1,8 @@
 
+2017-8-25 14:00
+Android 6.0 bluetooth Support
 
-2017-8-25
+2017-8-25 13:00
 connect Receiver throught BTMAC instead of ID Index
 adopt new command protocol
 add new feature: charging records
