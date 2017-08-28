@@ -1,4 +1,5 @@
-
+2017-8-28 15:03
+record format changed
 
 2017-8-25 17:37
 refine the recording procedure
