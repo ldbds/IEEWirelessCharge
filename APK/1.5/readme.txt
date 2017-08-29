@@ -1,3 +1,6 @@
+2017-8-29 9:05
+add button reaction, lengthen the connection verify time.
+
 2017-8-28 15:03
 record format changed
 
