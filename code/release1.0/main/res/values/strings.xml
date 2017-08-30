@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">无线充电</string>
+    <string name="title_activity_main2">无线充电</string>
+
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+
+    <string name="carNO1">京Q V8U28</string>
+    <string name="carNO2">京Q V0V08</string>
+    <string name="carNO3">京Q V9U20</string>
+    <string name="carNO4">京Q V8U90</string>
+
+    <string name="portNO1">004</string>
+    <string name="portNO2">005</string>
+
+
+</resources>

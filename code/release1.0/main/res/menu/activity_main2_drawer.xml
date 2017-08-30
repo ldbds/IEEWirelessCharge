@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="车牌选择">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/menu_car1"
+                    android:title="@string/carNO1" />
+                <item
+                    android:id="@+id/menu_car2"
+                    android:title="@string/carNO2" />
+                <item
+                    android:id="@+id/menu_car3"
+                    android:title="@string/carNO3" />
+                <item
+                    android:id="@+id/menu_car4"
+                    android:title="@string/carNO4" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="车位选择">
+        <menu>
+            <group  android:checkableBehavior="single">
+            <item
+                android:id="@+id/menu_port1"
+                android:title="@string/portNO1" />
+            <item
+                android:id="@+id/menu_port2"
+                android:title="@string/portNO2" />
+            </group>
+        </menu>
+    </item>
+
+</menu>
