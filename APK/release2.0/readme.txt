@@ -1,3 +1,6 @@
+2017-8-30 17:03
+avoid bluetooth thread congestion
+
 2017-8-30 16:32
 refine v21 bug: some resource files tagged with "v21",  make them unreachable in low version Android system, which caused crash.
 
