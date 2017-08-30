@@ -1,2 +1,5 @@
+2017-8-30 16:32
+refine v21 bug: some resource files tagged with "v21",  make them unreachable in low version Android system, which caused crash.
+
 2017-8-30
 东升科技园v2.0测试程序,未交付
