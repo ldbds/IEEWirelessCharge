@@ -1,3 +1,6 @@
+2017-8-30 16:47
+shorten refresh time
+
 2017-8-29 9:05
 add button reaction, lengthen the connection verify time.
 

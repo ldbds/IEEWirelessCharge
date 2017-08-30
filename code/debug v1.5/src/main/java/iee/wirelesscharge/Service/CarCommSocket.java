@@ -39,13 +39,19 @@ public class CarCommSocket extends BluetoothService {
             int count = 0;
             while (count < 19) {
                 if (in.available() == 0) {
-                    Thread.sleep(3000);
+                    Thread.sleep(100);
                     if (in.available() == 0) {
-                        Thread.sleep(3000);
+                        Thread.sleep(200);
                         if (in.available() == 0) {
-                            Thread.sleep(3000);
+                            Thread.sleep(300);
                             if (in.available() == 0) {
-                                throw new TimeoutException("Timeout");
+                                Thread.sleep(3000);
+                                if (in.available() == 0) {
+                                    Thread.sleep(6000);
+                                    if (in.available() == 0) {
+                                        throw new TimeoutException("Timeout");
+                                    }
+                                }
                             }
                         }
                     }
