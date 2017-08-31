@@ -1,3 +1,6 @@
+2017-8-31 9:04
+revise 8-31
+
 2017-8-30 17:03
 avoid bluetooth thread congestion
 
