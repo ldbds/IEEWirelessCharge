@@ -1,3 +1,6 @@
+2017-8-31 17:10
+add CRCcheck on comm
+
 2017-8-31 16:23
 re-indexing car_ID and port_ID
 
