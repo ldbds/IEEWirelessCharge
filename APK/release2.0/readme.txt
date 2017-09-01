@@ -1,3 +1,6 @@
+2017-9-1 11:30
+Bluetooth CRC error output
+
 2017-9-1 10:30
 Errlog append
 
