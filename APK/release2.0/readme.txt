@@ -1,3 +1,6 @@
+2017-9-1 10:30
+Errlog append
+
 2017-9-1 9:50
 fix CRC algorithm bug
 
