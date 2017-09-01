@@ -1,3 +1,6 @@
+2017-9-1 9:50
+fix CRC algorithm bug
+
 2017-8-31 17:10
 add CRCcheck on comm
 
