@@ -1,3 +1,6 @@
+2017-9-4 17:08
+fix 'can't connect on start up'
+
 2017-9-4 13:06
 Add new device, fix "Not-sending-channel" err
 
