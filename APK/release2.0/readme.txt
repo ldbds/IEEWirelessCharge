@@ -1,3 +1,6 @@
+2017-9-4 13:06
+Add new device, fix "Not-sending-channel" err
+
 2017-9-1 11:30
 Bluetooth CRC error output
 
