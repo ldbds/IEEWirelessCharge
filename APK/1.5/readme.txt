@@ -1,3 +1,6 @@
+2017-9-4 16:57
+fix CRC Err for debug v1.5
+
 2017-8-30 16:47
 shorten refresh time
 
